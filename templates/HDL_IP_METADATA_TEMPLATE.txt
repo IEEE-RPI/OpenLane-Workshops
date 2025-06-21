@@ -1,0 +1,7 @@
+// HDL IP Metadata Header
+// Copy and fill in these fields at the top of your HDL file.
+// IP Name       :
+// Inputs Desc   :
+// Outputs Desc  :
+// Author        :
+// Rev Number    :
